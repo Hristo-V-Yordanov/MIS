@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Wed Oct  7 23:55:16 2026 as: nmap -p- -oN ports.txt 192.168.10.2
+Nmap scan report for 192.168.10.2
+Host is up (0.00047s latency).
+Not shown: 65534 closed tcp ports (reset)
+PORT     STATE SERVICE
+8080/tcp open  http-proxy
+MAC Address: 08:00:27:20:7F:A9 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+# Nmap done at Wed Oct  7 23:55:39 2026 -- 1 IP address (1 host up) scanned in 23.03 seconds
